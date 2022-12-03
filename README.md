@@ -11,13 +11,14 @@ This challenge involving macros and VBA was going through Stock information from
 ## Analysis and Challenges
 Going over the data request from Steve, I was able to get the info that steve was requesting and making this workbook usable for future requests with adding in more timeframes for data review
 
-[Image 1](Rescources/VBA_Challenge_2018(1).png)
+![Image_1](Rescources/VBA_Challenge_2018(1).png)
 
-[Image 2](Resources/VBA_Challenge_2018(2).png)
+![Image_2](Resources/VBA_Challenge_2018(2).png)
 
-[Image 3](Resources/VBA_Challenge_2018(3).png)
+![Image_3](Resources/VBA_Challenge_2018(3).png)
 
 Here are the data pull times from the orignal and Refactored data along with the results of the Refactored data pull
 
 ## Challenges of this Task
 I found that this task was especially challenging with VBA because it did not show errors in the greatest fashion. I found that the data was easy to get to and find but going through and creating the correct syntax formulas did not come easily as what I've seen with Python And other programs. I found several things helpful for creating macros and hope to use them in the future better To help upcoming projects or situations that will arise 
+
